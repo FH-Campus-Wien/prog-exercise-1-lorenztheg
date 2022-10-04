@@ -29,7 +29,7 @@ public class App {
         char a = 'Z';   //Ascii
         int b = 0xface;
         int c = 10;
-        long d = 80L;
+        long d = 80L; //Long
         float e = 44e-1f;
         float f = 5.5f;
         double g = 8.88e1;
