@@ -41,7 +41,6 @@ public class App {
         int g1 = (int) g;
         int h1 = (int) h;
 
-
         int sum = (a+b+c+d1+e1+f1+g1+h1);
         System.out.println(sum);
 
